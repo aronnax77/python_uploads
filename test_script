@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+
+#############################################################################################
+#                                                                                           #
+#	PLEASE NOTE THAT THIS CODE WILL NOT RUN IN THE SOLOLEARN CODE PLAYGROUND.               # 
+#                                                                                           #
+#	This is a cgi test script written in python.  To see this code in action it will be     #
+#	necessary to run a server.  This is possible through a local server like apache but     #
+#	can also be achieved through a server written in python.  The code for such a server is #
+#	shown here xxxxxxxxxxxxxxx for those who may be interested.                             #
+#                                                                                           #
+#############################################################################################
+
+print("Content-type: text/html\n")
+print("Hello CGI\n)
